@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**OmariMoaad/OmariMoaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Moaad, a passionate software developer with experience in a wide range of technologies. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+- **TypeScript**
+- **Javascript**
+
+### Front-end
+- **ReactJS**
+- **Ant Design**
+- **Material-UI**
+- **React-Query**
+
+### Backend
+- **NestJS (NodeJS)**
+- **Socket.io (NodeJS)**
+- **Express (NodeJS)**
+
+### Databases
+- **PostgreSQL**
+- **MongoDB**
+
+### Operating Systems
+- **Debian**
+- **CentOS**
+- **Ubuntu**
+
+### DevOps
+- **Docker**
+- **Docker Compose**
+- **GitLab**
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/omari-moaad/)
+[![Email](https://img.shields.io/badge/Email-blue?style=flat&logo=gmail&labelColor=blue)](mailto:omari999moaad@gmail.com)
+
+## 💼 Projects
+
+Feel free to check out my repositories and contribute if you find something interesting. I'm always open to feedback and collaboration.
