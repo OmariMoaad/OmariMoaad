@@ -12,11 +12,10 @@ I'm Moaad, a passionate software developer with experience in a wide range of te
 - **ReactJS**
 - **Ant Design**
 - **Material-UI**
-- **React-Query**
+- **tailwind css**
 
 ### Backend
 - **NestJS (NodeJS)**
-- **Socket.io (NodeJS)**
 - **Express (NodeJS)**
 
 ### Databases
