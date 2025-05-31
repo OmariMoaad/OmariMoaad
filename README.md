@@ -10,17 +10,16 @@ I'm Moaad, a passionate software developer with experience in a wide range of te
 
 ### Front-end
 - **ReactJS**
-- **Ant Design**
-- **Material-UI**
-- **tailwind css**
+- **NextJS**
+- **UI Libraries**
 
 ### Backend
 - **NestJS (NodeJS)**
 - **Express (NodeJS)**
 
 ### Databases
-- **PostgreSQL**
-- **MongoDB**
+- **SQL(PostgreSQL, MySQL, SQLite)**
+- **NoSQL(MongoDB, Firebase)**
 
 ### Operating Systems
 - **Debian**
