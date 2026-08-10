@@ -74,5 +74,4 @@ Feel free to explore my projects, open issues, or start a discussion. I'm always
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn]
-- Portfolio: [Your Portfolio]
+- LinkedIn: https://www.linkedin.com/in/omari-moaad/
