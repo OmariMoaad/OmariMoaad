@@ -1,41 +1,78 @@
 # Hi there 👋
 
-I'm Moaad, a passionate software developer with experience in a wide range of technologies. Welcome to my GitHub profile!
+I'm **Moaad**, a Full Stack Engineer from Morocco with 5+ years of experience designing, building, and deploying scalable web applications.
 
-## 🔧 Technologies & Tools
+I specialize in **NestJS**, **Next.js**, **TypeScript**, **Clean Architecture**, and **microservices-based systems**. I enjoy transforming business requirements into secure, maintainable, and production-ready solutions while integrating modern AI technologies to accelerate development and deliver smarter products.
+
+Currently focused on:
+- 🏗️ Software Architecture & System Design
+- 🔒 Application Security & Best Practices
+- 🤖 AI-Powered Solutions & Automation
+- ☁️ Cloud-Native & Containerized Applications
+- 🚀 End-to-End Product Development
+
+## 🔧 Tech Stack
 
 ### Languages
-- **TypeScript**
-- **Javascript**
+- TypeScript
+- JavaScript
 
-### Front-end
-- **ReactJS**
-- **NextJS**
-- **UI Libraries**
+### Frontend
+- React
+- Next.js
+- Redux Toolkit
+- TanStack Query
+- Tailwind CSS
+- Shadcn/UI
 
 ### Backend
-- **NestJS (NodeJS)**
-- **Express (NodeJS)**
+- NestJS
+- Express.js
+- REST APIs
+- Microservices Architecture
 
-### Databases
-- **SQL(PostgreSQL, MySQL, SQLite)**
-- **NoSQL(MongoDB, Firebase)**
+### Databases & Caching
+- PostgreSQL
+- MySQL
+- SQLite
+- MongoDB
+- Firebase
+- Redis
 
-### Operating Systems
-- **Debian**
-- **CentOS**
-- **Ubuntu**
+### DevOps & Infrastructure
+- Docker
+- Docker Compose
+- GitLab CI/CD
+- Linux (Ubuntu, Debian, CentOS)
 
-### DevOps
-- **Docker**
-- **Docker Compose**
-- **GitLab**
+### Architecture & Practices
+- Clean Architecture (Onion Architecture)
+- Domain-Driven Design (DDD)
+- Secure Software Development
+- API Design
+- Multi-Tenant Systems
 
-## 🔗 Connect with Me
+### AI & Automation
+- Claude AI
+- Ollama
+- Mistral
+- AI Workflow Integration
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/omari-moaad/)
-[![Email](https://img.shields.io/badge/Email-blue?style=flat&logo=gmail&labelColor=blue)](mailto:omari999moaad@gmail.com)
+## 🚀 What I Do
+
+- Design and build scalable full-stack applications
+- Modernize legacy applications using Clean Architecture
+- Develop secure APIs and microservices
+- Automate business workflows with AI
+- Deploy and maintain production-ready systems
 
 ## 💼 Projects
 
-Feel free to check out my repositories and contribute if you find something interesting. I'm always open to feedback and collaboration.
+Most of my repositories showcase my work around full-stack development, architecture patterns, automation, and modern web technologies.
+
+Feel free to explore my projects, open issues, or start a discussion. I'm always interested in learning, collaborating, and building impactful software.
+
+## 📫 Connect With Me
+
+- LinkedIn: [Your LinkedIn]
+- Portfolio: [Your Portfolio]
